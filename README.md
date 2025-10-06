@@ -1,4 +1,4 @@
-# CMPINF-0010-LAB-6
+# CMPINF-0010-LAB-6 Group Members: Chase Marsalko and Luia Castro
 
 Overview:
 This lab introduces how to use user input and string concatenation in Python. The program asks the user for their name and a number, then prints both together as one string.
